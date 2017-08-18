@@ -74,7 +74,6 @@ Search `./ios/' and './android' for any remaining instances of the old project n
 
 ### Notes
 
-- You may want to clear cached references: "open Xcode, hold down the Option key and from the system toolbar choose Product > Clean Build Folder" ([source](http://blog.tylerbuchea.com/renaming-a-react-native-project/))
 - The `react-native-rename` project has been mentioned on Stackoverflow, though we haven't used it.
 - Here's an article for [renaming apps created with Expo](https://medium.com/the-react-native-log/how-to-rename-a-react-native-app-dafd92161c35).
 
