@@ -1,5 +1,5 @@
 # Renaming a React Native project
-Describes the steps needed to rename a React Native project
+Describes the steps needed to rename a React Native project.  Pull requests welcome!
 
 # Steps
 
@@ -79,7 +79,5 @@ Search `./ios/' and './android' for any remaining instances of the old project n
 - Here's an article for [renaming apps created with Expo](https://medium.com/the-react-native-log/how-to-rename-a-react-native-app-dafd92161c35).
 
 ---
-
-If there's something else you had to do when renaming, please submit a pull request!
 
 Sponsored by [2 Minute Revolution](https://2minute.fit).
