@@ -57,14 +57,18 @@ Also including any other customizations you may have, like `UIBackgroundModes`.
 
     target 'newProjectName' do
 
-### 11. Search any remaining instances
+### 11. Bring forward any other changes to overwritten files
 
-Search `./ios/' and './android' for any remaining instances of the old project name.  [This article](http://blog.tylerbuchea.com/renaming-a-react-native-project/) suggests these four files in particular:
+Check your deleted files in git vs the new ones (diffing helps), particularly:
 
+    .gitignore
     android/settings.gradle  
     android/app/build.gradle  
+    android/app/google-services.json
     android/app/src/main/AndroidManifest.xml  
-    android/app/src/main/res/values/strings.xml
+    android/app/src/main/java/com/newProjectName/MainApplication.java
+
+And display name in `app.json`
 
 ### 12. Additional steps
 
