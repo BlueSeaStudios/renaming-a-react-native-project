@@ -81,6 +81,12 @@ And display name in `app.json`
 - The `react-native-rename` project has been mentioned on Stackoverflow, though we haven't used it.
 - Here's an article for [renaming apps created with Expo](https://medium.com/the-react-native-log/how-to-rename-a-react-native-app-dafd92161c35).
 
+### Initial sources
+
+- https://stackoverflow.com/a/34248445/152711
+- http://blog.tylerbuchea.com/renaming-a-react-native-project/
+- [Chain React 2017: From Idea to App Store: A Guide to Shipping React Native Apps by Chris Ball](https://www.youtube.com/watch?v=W8X7t1qlT_w)
+
 ---
 
 Sponsored by [2 Minute Revolution](https://2minute.fit).
