@@ -26,6 +26,8 @@ Note that **[You can't use kebob-case]**(https://github.com/facebook/react-nativ
 
 Overwrite all files as requested.  If you have customizations in your project, you'll go back and fix them.
 
+Note: As of v0.60.x you will need to run "react-native upgrade --legacy true" to recreate the android/ios directories.
+
 ### 6. Update AppRegistry.registerComponent
 
 In your main app file (e.g. App.tsx):
@@ -39,6 +41,8 @@ While you're at it, check that you like your main `Component` name:
 ### 7. Run `react-native link`
 
 Additionally, do this also for any native projects you have, e.g. `react-native link react-native-codepush` and `react-native-link react-native-auth0`.
+
+Note: As of v0.60.x linking is automatic so this step can be skipped
 
 ### 8. Bring forward any customizations in your info.plist file
 
