@@ -89,4 +89,4 @@ And display name in `app.json`
 
 ---
 
-Sponsored by [2 Minute Revolution](https://2minute.fit).
+Sponsored by [2 Minute Revolution](https://2minute.com).
